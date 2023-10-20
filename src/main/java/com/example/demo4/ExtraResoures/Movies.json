@@ -1,0 +1,181 @@
+{
+  "films": [
+    {
+      "filmId": 1,
+      "nameRu": "Зеленая миля",
+      "nameEn": "The Green Mile",
+      "year": "1999",
+      "filmLength": "03:09",
+      "rating": "9.1",
+      "ratingVoteCount": 926595
+    },
+    {
+      "filmId": 2,
+      "nameRu": "Побег из Шоушенка",
+      "nameEn": "The Shawshank Redemption",
+      "year": "1994",
+      "filmLength": "02:22",
+      "rating": "9.1",
+      "ratingVoteCount": 968967
+    },
+    {
+      "filmId": 3,
+      "nameRu": "Форрест Гамп",
+      "nameEn": "Forrest Gump",
+      "year": "1994",
+      "filmLength": "02:22",
+      "rating": "8.9",
+      "ratingVoteCount": 859290
+    },
+    {
+      "filmId": 4,
+      "nameRu": "1+1",
+      "nameEn": "Intouchables",
+      "year": "2011",
+      "filmLength": "01:52",
+      "rating": "8.8",
+      "ratingVoteCount": 1708624
+    },
+    {
+      "filmId": 5,
+      "nameRu": "Список Шиндлера",
+      "nameEn": "Schindler's List",
+      "year": "1993",
+      "filmLength": "03:15",
+      "rating": "8.8",
+      "ratingVoteCount": 489490
+    },
+    {
+      "filmId": 6,
+      "nameRu": "Властелин колец: Возвращение короля",
+      "nameEn": "The Lord of the Rings: The Return of the King",
+      "year": "2003",
+      "filmLength": "03:21",
+      "rating": "8.7",
+      "ratingVoteCount": 567330
+    },
+    {
+      "filmId": 7,
+      "nameRu": "Интерстеллар",
+      "nameEn": "Interstellar",
+      "year": "2014",
+      "filmLength": "02:49",
+      "rating": "8.6",
+      "ratingVoteCount": 904533
+    },
+    {
+      "filmId": 8,
+      "nameRu": "Бойцовский клуб",
+      "nameEn": "Fight Club",
+      "year": "1999",
+      "filmLength": "02:19",
+      "rating": "8.7",
+      "ratingVoteCount": 914222
+    },
+    {
+      "filmId": 9,
+      "nameRu": "Тайна Коко",
+      "nameEn": "Coco",
+      "year": "2017",
+      "filmLength": "01:45",
+      "rating": "8.7",
+      "ratingVoteCount": 669972
+    },
+    {
+      "filmId": 10,
+      "nameRu": "Унесённые призраками",
+      "nameEn": "Sen to Chihiro no kamikakushi",
+      "year": "2001",
+      "filmLength": "02:05",
+      "rating": "8.5",
+      "ratingVoteCount": 559712
+    },
+    {
+      "filmId": 11,
+      "nameRu": "Криминальное чтиво",
+      "nameEn": "Pulp Fiction",
+      "year": "1994",
+      "filmLength": "02:34",
+      "rating": "8.6",
+      "ratingVoteCount": 745661
+    },
+    {
+      "filmId": 12,
+      "nameRu": "Иван Васильевич меняет профессию",
+      "year": "1973",
+      "filmLength": "01:28",
+      "rating": "8.8",
+      "ratingVoteCount": 927646
+    },
+    {
+      "filmId": 13,
+      "nameRu": "Властелин колец: Две крепости",
+      "nameEn": "The Lord of the Rings: The Two Towers",
+      "year": "2002",
+      "filmLength": "02:59",
+      "rating": "8.6",
+      "ratingVoteCount": 556565
+    },
+    {
+      "filmId": 14,
+      "nameRu": "Властелин колец: Братство Кольца",
+      "nameEn": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": "2001",
+      "filmLength": "02:58",
+      "rating": "8.6",
+      "ratingVoteCount": 635013
+    },
+    {
+      "filmId": 15,
+      "nameRu": "Приключения Шерлока Холмса и доктора Ватсона: Собака Баскервилей",
+      "year": "1981",
+      "filmLength": "02:34",
+      "rating": "8.6",
+      "ratingVoteCount": 242704
+    },
+    {
+      "filmId": 16,
+      "nameRu": "Шрэк",
+      "nameEn": "Shrek",
+      "year": "2001",
+      "filmLength": "01:30",
+      "rating": "8.1",
+      "ratingVoteCount": 718327
+    },
+    {
+      "filmId": 17,
+      "nameRu": "Шерлок Холмс и доктор Ватсон: Знакомство",
+      "year": "1979",
+      "filmLength": "01:08",
+      "rating": "8.6",
+      "ratingVoteCount": 214273
+    },
+    {
+      "filmId": 18,
+      "nameRu": "Король Лев",
+      "nameEn": "The Lion King",
+      "year": "1994",
+      "filmLength": "01:28",
+      "rating": "8.8",
+      "ratingVoteCount": 669321
+    },
+    {
+      "filmId": 19,
+      "nameRu": "Терминатор 2: Судный день",
+      "nameEn": "Terminator 2: Judgment Day",
+      "year": "1991",
+      "filmLength": "02:17",
+      "rating": "8.3",
+      "ratingVoteCount": 487471
+    },
+    {
+      "filmId": 20,
+      "nameRu": "Достучаться до небес",
+      "nameEn": "Knockin' on Heaven's Door",
+      "year": "1997",
+      "filmLength": "01:27",
+      "rating": "8.6",
+      "ratingVoteCount": 635074
+    }
+  ]
+}
